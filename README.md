@@ -1,2 +1,2 @@
 # File-Organiser
-For organising files on desktop
+For organising files in the downloads and desktop directory
